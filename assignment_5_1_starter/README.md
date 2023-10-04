@@ -1,3 +1,4 @@
+# FINDINGS
 ### Bar Coupons:
 Frequency of Bar Visits: 
 People who visited bars more frequently were more inclined to accept the bar coupons. Those who went to bars more than once a month showed a significantly higher acceptance rate.
