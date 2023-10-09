@@ -1,4 +1,4 @@
-# FINDINGS
+# FINDINGS:
 
 ## Bar Coupons:
 ### General Acceptance: 
