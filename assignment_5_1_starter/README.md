@@ -1,6 +1,6 @@
 # FINDINGS:
 
-## Bar Coupons:
+## ***Bar Coupons:***
 ### General Acceptance: 
 A total of 56.84% of respondents chose to accept the coupon across all categories. When considering only bar coupons, this number drops to 41%.
 
