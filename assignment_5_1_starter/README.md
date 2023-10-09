@@ -21,6 +21,8 @@ Younger individuals, especially those under 30, might be more spontaneous in the
 ### Life Circumstances Impact Decisions: 
 Marital status (widowed) and having kids seem to influence the decision to visit a bar. This could be due to the responsibilities and priorities associated with these life stages.
 
-### Economic Decisions: Individuals with a lower income bracket and who frequent less expensive dining options might be more open to accepting coupons, seeing it as a way to save or have a good time without spending much.
+### Economic Decisions: 
+Individuals with a lower income bracket and who frequent less expensive dining options might be more open to accepting coupons, seeing it as a way to save or have a good time without spending much.
 
-### Occupational Influence: The type of occupation could influence lifestyle and decisions. For instance, those in farming, fishing, or forestry might have different working hours or lifestyle patterns, which could affect their decision to accept a bar coupon.
+### Occupational Influence: 
+The type of occupation could influence lifestyle and decisions. For instance, those in farming, fishing, or forestry might have different working hours or lifestyle patterns, which could affect their decision to accept a bar coupon.
