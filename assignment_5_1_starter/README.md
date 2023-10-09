@@ -1,4 +1,5 @@
 # FINDINGS
+
 ## Bar Coupons:
 ### General Acceptance: 
 A total of 56.84% of respondents chose to accept the coupon across all categories. When considering only bar coupons, this number drops to 41%.
@@ -15,7 +16,8 @@ There seems to be a notable occupation-based difference. Bar-goers who had no ki
 ### Marital Status, Age, Income, and Acceptance: 
 It's evident that personal circumstances and habits play a role in the decision-making process. People who frequent bars, have no kids as passengers, and are not widowed have an acceptance rate of 68.79%. Younger individuals (under 30) who frequent bars have a higher acceptance rate of 72.17%. Furthermore, individuals who frequently eat at less expensive restaurants and have an income less than 50K have an acceptance rate of 59.40% for coupons in general (not just bar coupons).Frequency Matters: Those who visit bars or similar venues more frequently are naturally more inclined to accept such offers. This could be due to their habitual nature of visiting such places or seeing value in such offers.
 
-#Hypothesis:
+# Hypothesis:
+
 ###Frequency Matters: 
 Those who visit bars or similar venues more frequently are naturally more inclined to accept such offers. This could be due to their habitual nature of visiting such places or seeing value in such offers.
 
