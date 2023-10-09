@@ -18,7 +18,7 @@ It's evident that personal circumstances and habits play a role in the decision-
 
 # HYPOTHESIS:
 
-###Frequency Matters: 
+### Frequency Matters: 
 Those who visit bars or similar venues more frequently are naturally more inclined to accept such offers. This could be due to their habitual nature of visiting such places or seeing value in such offers.
 
 ### Age is a Factor: 
