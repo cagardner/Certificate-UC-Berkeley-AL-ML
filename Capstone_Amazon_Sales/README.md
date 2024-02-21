@@ -39,3 +39,14 @@ The exploration of the sales data shows the primary and secondary objectives are
 Amazing performance across all models finding correlations.
 I need to implement GridSearch with the cross validation still to separate modeling performances further.
 So far the XGBoost model scores highest in R^2 (0.825962), implying that it explains the variance in the target variable better than the other models.
+
+---
+# Next Steps:
+- show residuals
+- get feature names out
+- show percentage of importance on features
+- implement test set and show std/ error from actuals
+- run new inputs and access re-evaluation of preprocessing/modeling
+- draw further conclusions from results
+
+- IMPLEMENT OTHER PRECESSES???...
