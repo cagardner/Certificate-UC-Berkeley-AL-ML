@@ -6,7 +6,7 @@ How can I accurately forecast sales for various products and timeframes to optim
 
 #### Data Source:
 
-#### URL: https://data.world/anilsharma87/salesLinks to an external site.
+#### URL: https://data.world/anilsharma87/salesLinks
 
 The dataset contains historical sales transactions with details on dates, product information, sales amounts, quantities sold, and promotion details.
 
