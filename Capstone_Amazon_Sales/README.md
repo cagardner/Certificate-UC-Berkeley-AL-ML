@@ -31,10 +31,10 @@ The exploration of data shows the primary and secondary objectives are able to b
 
 ### Modeling:
 ##### Time-Series Models:
-**ARIMA** - poor performance as it doesn't take into account non seasonality
+##### **ARIMA** - poor performance as it doesn't take into account non seasonality
 
-**SARIMA** - better performance as it takes into account the fact that there is only 3 months worth of data and setting the seasonal time-frame parameter to 7 days.
+##### **SARIMA** - better performance as it takes into account the fact that there is only 3 months worth of data and setting the seasonal time-frame parameter to 7 days.
 
 ##### Regression Models:
-**Random Forest**
-**Gradient Boosting** - 
+Amazing performance across all models finding correlations.
+I need to implement GridSearch with the cross validation still to separate modeling performances further
