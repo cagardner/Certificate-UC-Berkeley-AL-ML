@@ -1,6 +1,3 @@
-
-### Title:
-
 # Sales Forecasting for Online Markets
 
 #### Research Question:
@@ -26,5 +23,15 @@ The expectation is to achieve accurate sales forecasts for different timeframes 
 
 Managing inventory effectively, reducing stockouts and overstock situations, and maximizing profits through target marketing and promotional strategies.
 
+---
+## Initial Results:
+The exploration of data shows the primary and secondary objectives are able to be accomplished with sales data spanding over a 3 month time period(quarter). Due to the limited date information, modifying the expectations of models will be needed.
 
-### Initial Results:
+Initial Modeling Results:
+##### Time-Series:
+**ARIMA** - poor performance as it doesn't take into account non seasonality 
+**SARIMA** - better performance as it takes into account the fact that there is only 3 months worth of data and setting the seasonal time-frame parameter to 7 days.
+
+##### Regression Models:
+**Random Forest**
+**Gradient Boosting** - 
