@@ -27,14 +27,15 @@ Managing inventory effectively, reducing stockouts and overstock situations, and
 ## Results:
 
 ### Exploration:
-The exploration of data shows the primary and secondary objectives are able to be accomplished with sales data spanding over a 3 month time period(quarterly). Due to the limited time-series information, modifying the expectations of models will be needed.
+The exploration of the sales data shows the primary and secondary objectives are able to be accomplished with sales data spanding over a 3 month time period(quarterly). Due to the limited time-series information, modifying the expectations of models will be needed.
 
 ### Modeling:
 ##### Time-Series Models:
 ##### **ARIMA** - poor performance as it doesn't take into account non seasonality
 
-##### **SARIMA** - better performance as it takes into account the fact that there is only 3 months worth of data and setting the seasonal time-frame parameter to 7 days.
+##### **SARIMA** - better performance as it takes into account the fact that there is only 3 months worth of data and setting the seasonal time-frame parameter to 7 days. This allows for a total of 12 seasons to analyze from.
 
 ##### Regression Models:
 Amazing performance across all models finding correlations.
-I need to implement GridSearch with the cross validation still to separate modeling performances further
+I need to implement GridSearch with the cross validation still to separate modeling performances further.
+So far the XGBoost model scores highest in R^2 (0.825962), implying that it explains the variance in the target variable better than the other models.
