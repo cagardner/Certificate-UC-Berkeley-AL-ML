@@ -10,11 +10,7 @@
 #### Implementation Techniques: 
 - The primary implementation will be to use time series forecasting methods like ARIMA for sales predictions
 - The secondary implementation will be to use classification models like Random Forest and Gradient Boosting for identifying features that drive sales higher or lower.
-
-#### Expected Results: 
-- The expectation is to achieve accurate sales forecasts for different timeframes and products, identify features driving sales volumes, and provide actionable insights for inventory optimization.
-
----
+  
 ---
 # <u>Results</u>
 ## Data Exploration:
