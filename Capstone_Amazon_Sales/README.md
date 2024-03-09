@@ -1,9 +1,9 @@
 # Target Marketing for Amazon Sales
 
-## <u>Research Question:</u>
+### <u>Research Question:</u>
 - How can I accurately forecast sales for various products and timeframes to optimize inventory levels and identify key drivers of sales across different product categories?
 
-## <u>Data Source:</u>
+### <u>Data Source:</u>
 #### URL: https://data.world/anilsharma87/salesLinks
 - The dataset contains historical sales transactions with details on dates, product information, sales amounts, quantities sold, and promotion details.
 
