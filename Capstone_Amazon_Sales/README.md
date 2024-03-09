@@ -14,7 +14,8 @@
 #### Expected Results: 
 - The expectation is to achieve accurate sales forecasts for different timeframes and products, identify features driving sales volumes, and provide actionable insights for inventory optimization.
 
-
+---
+---
 # <u>Results</u>
 ## Data Exploration:
 The exploration of the sales data shows the primary and secondary objectives are able to be accomplished with sales data spanning over a 3 month time period(quarterly). Due to the limited time-series information, modifying the expectations of models will be needed.
