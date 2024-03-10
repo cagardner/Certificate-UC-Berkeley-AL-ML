@@ -36,46 +36,12 @@
 - The secondary implementation will be to use feature importance to identify features that drive sales higher or lower alongside date-time patterns.
   
 ---
+---
+---
 # <u>Results</u>
 ### Data Exploration:
 After exploring the sales dataset, these were my findings:
 The dataset is an Amazon Sales Report with the following columns:
-
-1. **Order ID**: Unique identifier for each order.
-2. **Date**: The date on which the order was placed.
-3. **Status**: Current status of the order (e.g., Cancelled, Shipped, Delivered).
-4. **Fulfilment**: Whether the item was fulfilled by the merchant or Amazon.
-5. **Sales Channel**: The platform through which the sale was made.
-6. **Ship-Service-Level**: Shipping service level (e.g., Standard, Expedited).
-7. **Style**: Style identifier for the product.
-8. **SKU**: Stock Keeping Unit, a unique identifier for each product.
-9. **Category**: Category of the product (e.g., Set, Kurta, Western Dress).
-10. **Size**: Size of the product.
-11. **Color**: Color of the product.
-12. **Quantity**: Number of units sold in the order.
-13. **Item Price**: Price of the item.
-14. **Currency**: Currency of the transaction.
-15. **Amount**: Total amount of the order.
-16. **Ship-City**: City where the product was shipped.
-17. **Ship-State**: State where the product was shipped.
-18. **Ship-Postal-Code**: Postal code of the shipping address.
-19. **Ship-Country**: Country where the product was shipped.
-20. **Promotion-Ids**: IDs of any promotions applied to the order.
-21. **B2B**: Indicates if the order was a business-to-business transaction.
-22. **Fulfilled-By**: Specifies who fulfilled the order (e.g., Easy Ship).
-23. **Unnamed: 22**: An unnamed column that appears to be empty.
-
-Let's conduct an extended data exploration to understand the dataset better, focusing on the following areas:
-- Summary statistics of numerical columns.
-- Distribution of orders by status, fulfilment, sales channel, and category.
-- Sales trends over time.
-- Analysis of shipping destinations.
-- Promotion analysis.
-
-Let's start with the summary statistics of numerical columns.
-
-The summary statistics and missing values analysis provide the following insights:
-
 ### Summary Statistics for Numerical Columns:
 - **Qty (Quantity)**: The mean quantity of items per order is approximately 0.9, with a minimum of 0 and a maximum of 15. Most orders (75%) contain 1 item.
 - **Amount**: The average amount per order is around 648.56 INR, with a wide range from 0 to 5584 INR. The distribution suggests most orders fall below 788 INR.
