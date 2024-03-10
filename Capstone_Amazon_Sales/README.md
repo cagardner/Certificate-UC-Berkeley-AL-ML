@@ -35,9 +35,7 @@
 - The secondary implementation will be to use feature importance to identify features that drive sales higher or lower alongside date-time patterns.
   
 ---
-
-# <u>Results</u>
-### Data Exploration:
+# Data Exploration Results:
 After exploring the sales dataset, these were my findings:
 The dataset is an Amazon Sales Report with the following columns:
 ### Summary Statistics for Numerical Columns:
