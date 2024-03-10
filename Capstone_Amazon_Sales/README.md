@@ -36,8 +36,7 @@
   
 ---
 # Data Exploration Results:
-After exploring the sales dataset, these were my findings:
-The dataset is an Amazon Sales Report with the following columns:
+
 ### Summary Statistics for Numerical Columns:
 - **Qty (Quantity)**: The mean quantity of items per order is approximately 0.9, with a minimum of 0 and a maximum of 15. Most orders (75%) contain 1 item.
 - **Amount**: The average amount per order is around 648.56 INR, with a wide range from 0 to 5584 INR. The distribution suggests most orders fall below 788 INR.
@@ -66,10 +65,6 @@ The dataset is an Amazon Sales Report with the following columns:
 - **Western Dress** (15,500) and **Top** (10,622) follow, indicating a diverse range of fashion preferences among buyers.
 - Categories like **Ethnic Dress**, **Blouse**, **Bottom**, **Saree**, and **Dupatta** represent more niche markets within the dataset.
 
-These insights suggest varied buyer preferences and the importance of efficient fulfillment processes. Next, we could look into sales trends over time to understand any temporal patterns or seasonal influences on sales. Would you like to proceed with this analysis or focus on another aspect?
-
-In summary, the exploration of the sales data shows the primary and secondary objectives are able to be accomplished with sales data spanning over a 3 month time period(quarterly). Due to the limited time-series information, modifying the expectations of models will be needed.
-
-
-What are the chances that the model works as intended vs not as intended
-Ethical aspects
+---
+# Data Exploration Results:
+### 
