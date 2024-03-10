@@ -1,4 +1,4 @@
-# Target Marketing for Amazon Sales
+# Focused Marketing using Amazon Sales
 
 ### <u>Research Question:</u>
 - How can I accurately forecast sales for various products and timeframes to optimize inventory levels and identify key drivers of sales across different product categories?
