@@ -31,7 +31,7 @@
 23. **Unnamed: 22**: An unnamed column that appears to be empty.
 
 ---
-#### Implementation Techniques: 
+### Data Implementation: 
 - The primary implementation will be to use time series forecasting methods to capture seasonal and non-seasonal patterns for sales predictions
 - The secondary implementation will be to use feature importance to identify features that drive sales higher or lower alongside date-time patterns.
   
