@@ -1,8 +1,8 @@
 # Target Marketing for Amazon Sales
----
+
 ### <u>Research Question:</u>
 - How can I accurately forecast sales for various products and timeframes to optimize inventory levels and identify key drivers of sales across different product categories?
----
+
 ### <u>Data Source:</u>
 #### URL: https://data.world/anilsharma87/salesLinks
 - The dataset contains historical sales transactions with details on dates, product information, sales amounts, quantities sold, and promotion details. An explanation of the columns is listed below:
@@ -30,14 +30,12 @@
 22. **Fulfilled-By**: Specifies who fulfilled the order (e.g., Easy Ship).
 23. **Unnamed: 22**: An unnamed column that appears to be empty.
 
----
 ### Data Implementation: 
 - The primary implementation will be to use time series forecasting methods to capture seasonal and non-seasonal patterns for sales predictions
 - The secondary implementation will be to use feature importance to identify features that drive sales higher or lower alongside date-time patterns.
   
 ---
----
----
+
 # <u>Results</u>
 ### Data Exploration:
 After exploring the sales dataset, these were my findings:
