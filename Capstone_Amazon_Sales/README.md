@@ -66,13 +66,14 @@ The chosen models are well-suited for regression tasks and can handle the datase
 
 ---
 # Findings
-## Exploration of Sales Performance
-### Summary Statistics for Numerical Columns:
+---
+## Exploration of Sales Performance:
+#### Summary Statistics for Numerical Columns:
 - **Qty (Quantity)**: The mean quantity of items per order is approximately 0.9, with a minimum of 0 and a maximum of 15. Most orders (75%) contain 1 item.
 - **Amount**: The average amount per order is around 648.56 INR, with a wide range from 0 to 5584 INR. The distribution suggests most orders fall below 788 INR.
 - **Ship-Postal-Code**: The postal codes range from 110001 to 989898, indicating a broad geographic distribution of shipments.
 
-### Missing Values:
+#### Missing Values:
 - **Currency** and **Amount** each have 7,795 missing values, suggesting some orders might be missing price data.
 - **Promotion-Ids** has 49,153 missing values, indicating that many orders were not associated with any promotions.
 - **Fulfilled-By** has 89,698 missing values, possibly indicating missing information on who fulfilled the order.
