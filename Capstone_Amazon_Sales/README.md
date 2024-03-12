@@ -67,8 +67,9 @@ The chosen models are well-suited for regression tasks and can handle the datase
 
 ---
 # Findings
----
 ## Exploration of Sales Performance:
+---
+
 #### Summary Statistics for Numerical Columns:
 - **Qty (Quantity)**: The mean quantity of items per order is approximately 0.9, with a minimum of 0 and a maximum of 15. Most orders (75%) contain 1 item.
 - **Amount**: The average amount per order is around 648.56 INR, with a wide range from 0 to 5584 INR. The distribution suggests most orders fall below 788 INR.
@@ -98,3 +99,8 @@ The chosen models are well-suited for regression tasks and can handle the datase
 - Categories like **Ethnic Dress**, **Blouse**, **Bottom**, **Saree**, and **Dupatta** represent more niche markets within the dataset.
 
 These insights suggest varied buyer preferences and the importance of efficient fulfillment processes. Next, we could look into sales trends over time to understand any temporal patterns or seasonal influences on sales. Would you like to proceed with this analysis or focus on another aspect?
+
+---
+# Findings
+## Evaluating Feature Importance:
+---
