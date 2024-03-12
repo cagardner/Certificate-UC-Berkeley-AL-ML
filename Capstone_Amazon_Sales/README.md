@@ -1,6 +1,6 @@
 ---
 # Marketing with Amazon Sales
-## Sales Performance Analysis and Forecasting
+## Sales Performance Analysis, Feature Importance and Forecasting
 ---
 ### Goal:
 The goal of the project is to leverage historical sales data to unearth patterns, trends, and seasonality in sales performances across various categories, fulfillment methods, and sales channels. The insights garnered from this analysis aim to accurately predict future sales, thereby assisting in strategic decision-making related to inventory management and sales optimization.
