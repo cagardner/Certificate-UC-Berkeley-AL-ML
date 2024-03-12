@@ -32,7 +32,7 @@ The dataset (Amazon Sales Report) contains the following columns:
 20. **Promotion-Ids**: IDs of any promotions applied to the order.
 21. **B2B**: Indicates if the order was a business-to-business transaction.
 22. **Fulfilled-By**: Specifies who fulfilled the order (e.g., Easy Ship).
-23. **Unnamed: 22**: An unnamed column that appears to be empty.
+23. **Unnamed: 22**: An unnamed column that is Empty
 
 ### Data Problem:
 Handling the dataset's complexity, including the variety of product categories, fulfillment methods, and sales channels, poses a significant challenge. The data may contain missing values, outliers, or inconsistencies that need to be meticulously cleaned and processed. Additionally, accurately modeling time-series data requires dealing with seasonality, trend components, and potential shifts in consumer behavior over time.
