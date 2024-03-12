@@ -8,8 +8,8 @@ The goal of the project is to leverage historical sales data to unearth patterns
 ### Data Source:
 **URL:** https://data.world/anilsharma87/sales
 
-The dataset contains historical sales transactions with details on dates, product information, sales amounts, quantities sold, and promotion details from an e-commerce business partnered with Amazon.
-The dataset (Amazon Sales Report) contains the following columns:
+- The dataset contains historical sales transactions with details on dates, product information, sales amounts, quantities sold, and promotion details from an e-commerce business partnered with Amazon.
+- The dataset (Amazon Sales Report) contains the following columns:
 
 1. **Order ID**: Unique identifier for each order.
 2. **Date**: The date on which the order was placed.
