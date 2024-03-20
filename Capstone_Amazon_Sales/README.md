@@ -98,7 +98,7 @@ The chosen models are well-suited for regression tasks and can handle the datase
 - **Western Dress** (15,500) and **Top** (10,622) follow, indicating a diverse range of fashion preferences among buyers.
 - Categories like **Ethnic Dress**, **Blouse**, **Bottom**, **Saree**, and **Dupatta** represent more niche markets within the dataset.
 
-These insights suggest varied buyer preferences and the importance of efficient fulfillment processes. Next, we could look into sales trends over time to understand any temporal patterns or seasonal influences on sales. Would you like to proceed with this analysis or focus on another aspect?
+These insights suggest varied buyer preferences and the importance of efficient fulfillment processes.
 
 ---
 # Findings pt.2
