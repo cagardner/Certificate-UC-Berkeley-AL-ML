@@ -83,7 +83,7 @@ The chosen machine learning models were:
 - **Fulfilled-By** has 89,698 missing values, possibly indicating missing information on who fulfilled the order.
 - **Courier Status** has 6,872 missing values, which could imply missing tracking information for some orders.
 - **Ship-City**, **Ship-State**, **Ship-Postal-Code**, and **Ship-Country** each have 33 missing values, showing a small number of orders lacking complete shipping address information.
-- The **Unnamed: 22** column appears to be entirely empty or non-informative for the subset of data viewed, with 49,050 missing values.
+- The **Unnamed: 22** column appears to be empty or non-informative for the subset of data viewed, with 49,050 missing values.
 
 ### Distribution Insights
 #### Order Status:
@@ -107,7 +107,7 @@ These insights suggest varied buyer preferences and the importance of efficient 
 ## Evaluating Feature Importance:
 ---
 ### ML Models & Model Scoring:
-- The baseline model to beat was 
+- The baseline model to beat was the decision tree regressor. After running an evaluation on the baseline model, the decision tree regressor, , , were all overfitting along wit
 ---
 # Next Steps pt.3
 ## Unsupervised Modeling & Target Pricing:
