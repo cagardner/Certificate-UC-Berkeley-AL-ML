@@ -104,3 +104,9 @@ These insights suggest varied buyer preferences and the importance of efficient 
 # Findings pt.2
 ## Evaluating Feature Importance:
 ---
+
+---
+# Next Steps pt.3
+## Unsupervised Modeling & Target Pricing:
+---
+
