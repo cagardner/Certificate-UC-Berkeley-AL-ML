@@ -66,7 +66,7 @@ The chosen models are well-suited for regression tasks and can handle the datase
 - **RandomForestRegressor**: An ensemble method that can improve prediction accuracy and robustness by averaging multiple decision trees, reducing the risk of overfitting.
 
 ---
-# Findings
+# Findings pt.1
 ## Exploration of Sales Performance:
 ---
 
@@ -101,6 +101,6 @@ The chosen models are well-suited for regression tasks and can handle the datase
 These insights suggest varied buyer preferences and the importance of efficient fulfillment processes. Next, we could look into sales trends over time to understand any temporal patterns or seasonal influences on sales. Would you like to proceed with this analysis or focus on another aspect?
 
 ---
-# Findings
+# Findings pt.2
 ## Evaluating Feature Importance:
 ---
