@@ -57,7 +57,7 @@ The project addresses the critical business need to forecast sales accurately, f
 - Insights into the impact of different sales channels and fulfillment methods on sales performance, guiding strategic decisions.
 
 ### Machine Learning Models:
-The chosen models are well-suited for regression tasks and can handle the dataset's complexity:
+The chosen machine learning models were:
 
 - **DecisionTreeRegressor**: Good for capturing nonlinear relationships, though prone to overfitting if not properly constrained.
 - **XGBRegressor**: Effective for various types of regression tasks, offering high performance and the ability to handle complex interactions between features.
@@ -65,6 +65,8 @@ The chosen models are well-suited for regression tasks and can handle the datase
 - **GradientBoostingRegressor**: Offers flexibility in optimizing different loss functions, beneficial for improving the accuracy of predictions.
 - **RandomForestRegressor**: An ensemble method that can improve prediction accuracy and robustness by averaging multiple decision trees, reducing the risk of overfitting.
 
+##### Reasoning:
+- I chose to go with these models due to the data timeframe being less than 3 months.
 ---
 # Findings pt.1
 ## Exploration of Sales Performance:
