@@ -104,9 +104,11 @@ These insights suggest varied buyer preferences and the importance of efficient 
 # Findings pt.2
 ## Evaluating Feature Importance:
 ---
-
+### ML Models & Model Scoring:
+- The baseline model to beat was 
 ---
 # Next Steps pt.3
 ## Unsupervised Modeling & Target Pricing:
 ---
-
+### Business Deployment:
+Deploying the model as is would result in a mean average percentage error (MAPE) of 17.43%. This is one of the challenges of forecasting with marketing data.
