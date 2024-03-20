@@ -107,10 +107,20 @@ These insights suggest varied buyer preferences and the importance of efficient 
 ## Evaluating Feature Importance:
 ---
 ### ML Models & Model Scoring:
-- The baseline model to beat was the decision tree regressor. After running an evaluation on the baseline model, the decision tree regressor, , , were all overfitting along wit
+- The baseline model to beat was the decision tree regressor. After evaluation of the baseline models without cross-validation, the decision tree regressor was overfitting. The two models performed the best regarding efficiency and accuracy; XGBRegressor & LGBMRegressor comparably performed almost the same.
+
+Model |	RMSE Train Set |	RMSE Test Set |	MAE Train Set |	MAE Test Set |	R2 Train Set |	R2 Test Set |	Time(sec)
+0	DecisionTreeRegressor	2.060973	2.115008	1.439068	1.466884	0.591185	0.570640	0.102439
+1	XGBRegressor	2.063418	2.087704	1.442005	1.461708	0.590215	0.581654	0.204608
+2	LGBMRegressor	2.074023	2.083649	1.449042	1.461766	0.585992	0.583277	0.171876
+3	GradientBoostingRegressor	2.094923	2.098785	1.469020	1.477932	0.577606	0.577201	4.776895
+4	RandomForestRegressor	2.063998	2.087109	1.441569	1.462649	0.589984	0.581893	5.873551
+
+-  After a grid search on the top 2 performing models, the difference in RMSE score to confirm the best model was by  
+- 
 ---
 # Next Steps pt.3
 ## Unsupervised Modeling & Target Pricing:
 ---
 ### Business Deployment:
-Deploying the model as is would result in a mean average percentage error (MAPE) of 17.43%. This is one of the challenges of forecasting with marketing data.
+Deploying the model as is would result in a mean average percentage error (MAPE) of 17.43%. One of the challenges of forecasting marketing data is 
