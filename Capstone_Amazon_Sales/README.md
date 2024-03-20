@@ -117,7 +117,7 @@ These insights suggest varied buyer preferences and the importance of efficient 
 | GradientBoostingRegressor   | 2.094923       | 2.098785      | 1.469020      | 1.477932     | 0.577606     | 0.577201    | 4.776895  |
 | RandomForestRegressor       | 2.063998       | 2.087109      | 1.441569      | 1.462649     | 0.589984     | 0.581893    | 5.873551  |
 
-
+#### Fine-Tuning & Selecting Best Model:
 -  After a grid search on the top 2 performing models, the difference in RMSE score to confirm the best model was by  
 - 
 ---
